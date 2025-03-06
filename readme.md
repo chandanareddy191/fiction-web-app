@@ -59,6 +59,6 @@ pip install -r requirements.txt
 # Run the application
 python run.py
 
-Note : to setup in cloud environment please look into the text file provided for the steps 
+Note : to setup in cloud environment please look into the clouddeployment.md file provided for the steps 
 
 
