@@ -26,6 +26,13 @@ The core features include:
 - **Container**: Docker
 - **Cloud Platform**: AWS Elastic Beanstalk
 
+## sample output
+
+![image](https://github.com/user-attachments/assets/5eba0f54-ca9e-490b-ad04-a2c684255741)
+
+![image](https://github.com/user-attachments/assets/78437262-0978-4dbd-8dbe-72c9767465af)
+
+
 ## Local Setup
 
 ### Prerequisites
@@ -53,6 +60,5 @@ pip install -r requirements.txt
 python run.py
 
 Note : to setup in cloud environment please look into the text file provided for the steps 
-### **sample output**
-![image](https://github.com/user-attachments/assets/44849555-38fd-4850-ba05-0b9b1de3a729)
+
 
